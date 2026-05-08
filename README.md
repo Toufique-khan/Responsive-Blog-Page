@@ -43,7 +43,9 @@ This project was created as a frontend practice exercise to improve my:
 
 ## 📷 Preview
 <img width="1895" height="917" alt="image" src="https://github.com/user-attachments/assets/d38348a3-1452-4db4-b76e-6eb62f1a106c" />
+<br>
 <img width="1062" height="816" alt="image" src="https://github.com/user-attachments/assets/8bed56ee-9bba-46d2-b286-170ff36af2ff" />
+<br>
 <img width="530" height="815" alt="image" src="https://github.com/user-attachments/assets/8a7080e3-f41b-4c69-a119-ed4504db48a2" />
 
 
