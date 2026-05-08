@@ -51,3 +51,5 @@ This project was created as a frontend practice exercise to improve my:
 
 
 Built with HTML, CSS, and a strong focus on responsive UI design 💻✨
+
+Author - Toufique Ahmed Khan
