@@ -49,7 +49,6 @@ This project was created as a frontend practice exercise to improve my:
 <img width="530" height="815" alt="image" src="https://github.com/user-attachments/assets/8a7080e3-f41b-4c69-a119-ed4504db48a2" />
 
 
-
 Built with HTML, CSS, and a strong focus on responsive UI design 💻✨
 
 Author - Toufique Ahmed Khan
